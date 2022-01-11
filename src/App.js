@@ -7,7 +7,7 @@ import { TodoList } from './TodoList';
 import { CreateTodoButton } from './CreateTodoButton'
 
 const todos = [
-  { text: 'Cortar cebolla', completed: false },
+  { text: 'Leer un libro', completed: false },
   { text: 'Tomar agua', completed: false },
   { text: 'Ver serie en netflix', completed: false },
   { text: 'Salir a correr', completed: false }
